@@ -1,64 +1,70 @@
-<h1><img alt="Baileys logo" src="https://raw.githubusercontent.com/WhiskeySockets/Baileys/refs/heads/master/Media/logo.png" height="75"/></h1>
+## ⚡ DigiVora Custom Baileys Engine
 
+<p align="center">
+  <img src="https://img.shields.io/github/stars/DigiVora/Baileys?style=for-the-badge&color=magenta" />
+  <img src="https://img.shields.io/badge/Node.js-%3E%3D%2016.x-green?style=for-the-badge&logo=node.js" />
+</p>
 
-> [!CAUTION]
-> NOTICE OF BREAKING CHANGE.
->
-> As of 7.0.0, multiple breaking changes were introduced into the library.
->
-> Please check out https://whiskey.so/migrate-latest for more information.
+> **WhatsApp Web API Engine** yang dimodifikasi untuk stabilitas tinggi dan penggunaan profesional. Dibangun di atas core WhiskeySockets/Baileys. ✨
 
-Baileys is a WebSockets-based TypeScript library for interacting with the WhatsApp Web API.
+---
 
-Join the WhiskeySockets community via the link: https://whiskey.so/discord
+## 💎 Fitur Utama
+* 🎨 **Identity System** ❯ Banner ASCII "DV" eksklusif saat inisialisasi socket.
+* 🎮 **Pterodactyl Ready** ❯ Optimasi konfigurasi khusus penggunaan di Panel.
+* 💻 **Clean Logging** ❯ Laporan status engine yang rapi dan informatif di terminal.
 
-# Usage & Guide
+---
 
-> [!IMPORTANT]
-> The new guide is a work in progress. Expect missing pages/content. [Report missing or incorrect content.](https://github.com/WhiskeySockets/baileys.wiki-site/issues/new)
->
-> **You can still access the old guide here:** [README.md](https://github.com/WhiskeySockets/Baileys/tree/master/README.md), or the [NPM homepage](https://npmjs.com/package/baileys).
+## 🚀 Instalasi
+Tambahkan repository **DigiVora** ke dalam `package.json` Anda:
 
-The new guide is posted at https://baileys.wiki .
+```json
+"dependencies": {
+  "@whiskeysockets/baileys": "git+[https://github.com/DigiVora/Baileys.git](https://github.com/DigiVora/Baileys.git)"
+}
+```
 
-# Get Support
+Setelah itu jalankan :
+```
+npm install && npm start
+```
 
-If you'd like business to enterprise-level support from Rajeh, the current maintainer of Baileys, you can book a video chat. Book a 1 hour time slot by contacting him on Discord or pre-ordering [here](https://purpshell.dev/book). The earlier you pre-order the better, as his time slots usually fill up very quickly. He offers immense value per hour and will answer all your questions before the time runs out.
+---
 
-If you are a business, we encourage you to contribute back to the high development costs of the project and to feed the maintainers who dump tens of hours a week on this. You can do so by booking meetings or sponsoring below. All support, even in bona fide / contribution hours, is welcome by businesses of all sizes. This is not condoning or endorsing businesses to use the library. See the Disclaimer below.
+## 🧑‍💻 Profil Pengembang
+| Detail | Keterangan |
+| :--- | :--- |
+| *Developer* | Achmad Khusnul Yakin, S.Kom. |
+| *Bussines Developer* | DigiVora Studio |
+| *Instansi* | Institut Teknologi Mojosari |
 
-# Sponsor
+---
 
-If you'd like to financially support this project, you can do so by supporting the current maintainer [here](https://purpshell.dev/sponsor).
+## 🤝 Hubungi Saya
 
-# Disclaimer
-> [!CAUTION]
-> This project is not affiliated, associated, authorized, endorsed by, or in any way officially connected with WhatsApp or any of its subsidiaries or its affiliates.
-> The official WhatsApp website can be found at whatsapp.com. "WhatsApp" as well as related names, marks, emblems and images are registered trademarks of their respective owners.
->
-> The maintainers of Baileys do not in any way condone the use of this application in practices that violate the Terms of Service of WhatsApp. The maintainers of this application call upon the personal responsibility of its users to use this application in a fair way, as it is intended to be used.
-> Use at your own discretion. Do not spam people with this. We discourage any stalkerware, bulk or automated messaging usage.
+<p align="center">
+  <a href="https://www.linkedin.com/in/achmad-khusnul-yakin-25b87a3a2?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="margin-bottom: 5px;">
+  </a>
+  <a href="https://www.instagram.com/digivora.studio" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" style="margin-bottom: 5px;">
+  </a>
+  <a href="https://wa.me/6283116152891" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" style="margin-bottom: 5px;">
+  </a>
+  <a href="https://github.com/DigiVora" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" style="margin-bottom: 5px;">
+  </a>
+</p>
+<br>
 
-# License
-Copyright (c) 2025 Rajeh Taher/WhiskeySockets
+---
 
-Licensed under the MIT License:
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
-
-Thus, the maintainers of the project can't be held liable for any potential misuse of this project.
+<p align="center">
+  <img src="https://img.shields.io/badge/Copyright%20%C2%A9%202026-DigiVora%20Studio-orange?style=flat-square" alt="Copyright">
+  <br>
+  <sub>Sistem ini dikembangkan dengan dedikasi oleh:
+  <br>
+  <b>Achmad Khusnul Yakin, S.Kom.</b></sub>
+</p>
