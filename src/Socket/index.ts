@@ -21,7 +21,7 @@ console.log(`${magenta}
  ------------------------------------------
  ${green}[+] Engine  ${white}: DigiVora Custom Baileys
  ${green}[+] Github  ${white}: https://github.com/DigiVora
- ${green}[+] WhatsApp${white}: https://wa.me/6282228163013
+ ${green}[+] WhatsApp${white}: https://wa.me/6283116152891
  ${blue}[❤] Donation${white}: https://trakteer.id/digivora_official
  ${yellow}[!] Message ${white}: Terimakasih telah menggunakan Baileys saya!
  ${cyan}------------------------------------------${reset}\n`);
